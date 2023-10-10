@@ -1,0 +1,1 @@
+while task.wait(0.1) do local Event = game:GetService("Workspace").bobBos s.DamageEvent Event:FireServer() end
